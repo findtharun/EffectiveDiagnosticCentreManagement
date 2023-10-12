@@ -1,0 +1,55 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["Hi"],
+         "responses": ["Hey!! How can I help you?"],
+         "context_set": ""
+        },
+    {"tag": "greeting111",
+         "patterns": ["hello"],
+         "responses": ["Hey!! How can I help you?"]
+    },
+    {"tag": "greeting12221",
+         "patterns": ["hey"],
+         "responses": ["Hey!! How can I help you?"]
+    },
+        {"tag": "end111",
+         "patterns": ["goodbye"],
+         "responses": ["Bye! Hope you have a quick recovery ", "Have a nice day"]
+        },
+    
+        {"tag": "end2222",
+         "patterns": ["bye"],
+         "responses": ["Bye! Hope you have a quick recovery "]
+        },
+        {"tag": "ending",
+         "patterns": ["Thank you"],
+         "responses": ["Happy to help!", "Any time!", "My pleasure"]
+        },
+    {"tag": "final",
+         "patterns": ["thanks"],
+         "responses": ["Happy to help!", "Any time!", "My pleasure"]
+        },
+       {"tag": "Timings",
+         "patterns": ["what are the timings of Diagnostic centre"],
+         "responses": ["9am to 9 pm"]
+        },
+     {"tag": "name",
+         "patterns": ["what is your name"],
+         "responses": ["Hai I'm a bot. My name is Honie. H is for heavenly, your spirit is strong .  O is for original, one of a kind! Thanks for asking!!"]
+        },
+    {"tag": "purpose",
+         "patterns": ["what is your purpose?"],
+         "responses": ["I am there to assist you on behlaf of diagnostic centre"]
+    },
+
+        
+        {"tag": "opentoday",
+         "patterns": ["Are you open today?", "When do you open today?"],
+         "responses": ["We're 24*7 available"]
+        }
+        
+        
+       
+         
+   ]
+}
